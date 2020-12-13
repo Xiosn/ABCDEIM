@@ -1,6 +1,6 @@
 {
   "name": "vuexiosnimui",
-  "version": "1.0.6",
+  "version": "1.0.9",
   "main": "dist/index.umd.min.js",
   "description": "基于 lemon-imui的 聊天组件，增加图片预览",
   "homepage": "https://github.com/fanjyy/lemon-imui",
