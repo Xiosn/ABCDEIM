@@ -1,4 +1,6 @@
-# Lemon IMUI
+### 基于源库 https://gitee.com/june000/lemon-im
+### 在此基础上开发 增加图片预览功能
+
 
 [中文文档](docs/APIs_zh.md).  
 基于 VUE 2.0 的 IM 聊天组件
